@@ -11,3 +11,7 @@ simf simulation https://web3scout.github.io/forcecons-simf/
 
 ### publications (UPD)
 [distributed-consensus-networks-simulation-framework-forcecons-sim](https://medium.com/@web3scout/distributed-consensus-networks-simulation-framework-forcecons-sim-ff2e27e319a0)
+
+### screenshot
+![screenshot](screenshot.png)
+
